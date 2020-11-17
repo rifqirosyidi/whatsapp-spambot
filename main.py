@@ -1,6 +1,6 @@
 import pyautogui, time
 
-time.sleep(5)
+time.sleep(10)
 f = open('beescript', 'r')
 
 for word in f:
